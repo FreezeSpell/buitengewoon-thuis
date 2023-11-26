@@ -44,7 +44,20 @@ body, html{
 #menuBarContent {
     font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, Times, serif;
     font-size: 20px;
+    float: right;
+    padding-top: 60px;
+    word-spacing: 0px;
     /* margin-right: -100%; //FIXME: fix the menu bar to the right hand side */
+}
+
+.headerLinks {
+    color: black;
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+#contactButtonHeader {
+    margin-right: 100px;
 }
 
 
