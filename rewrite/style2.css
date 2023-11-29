@@ -35,14 +35,38 @@
     background-color: white;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
-    line-height: 35px;
+    line-height: 45px;
+    margin-bottom: -250px;
+    
 }
 
 #section1header {
+    padding-right: 1440px;
     font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, Times, serif;
     font-size: 30px;
     font-weight: bold;
     color: black;
+}
+
+#section2 {
+    padding-left: 70px;
+    background-color: skyblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    line-height: 45px;
+    color: grey;
+}
+
+#section2startParagraph {
+    font-style: italic;
+}
+
+#section2header {
+    padding-right: 200px;
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: grey;
 }
 
 /*//////////*/
